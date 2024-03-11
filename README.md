@@ -1,7 +1,5 @@
 
-Based on the provided code snippets, it seems like you're working on a project that involves scraping product data from Amazon and storing it in a MongoDB database. Here's a suggested description for your GitHub project:
-
-Amazon Scraper
+Amazon Scraper:
 This project is a Python-based web scraper designed specifically for extracting product information from Amazon. It utilizes Selenium and BeautifulSoup for web scraping and interacts with MongoDB for data storage.
 
 Features
